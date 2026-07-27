@@ -14,8 +14,8 @@ A responsive photography portfolio website built using HTML, CSS, and Bootstrap.
 - Smooth scrolling
 
 ## Technologies Used
-- HTML5
-- CSS3
+- HTML
+- CSS
 - Bootstrap 5
 
 ## Purpose
