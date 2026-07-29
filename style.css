@@ -35,8 +35,8 @@ header {
   padding: 20px 0;
 }
 
-.navbar-brand {
-  color: white !important;
+.navbar .navbar-brand.logo {
+  color: white;
   font-size: 28px;
   font-weight: bold;
 }
